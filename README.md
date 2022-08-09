@@ -2,8 +2,9 @@
 <div id="header" align="center">
   <img src="text.gif" width="100"/>
   <p>I am Kesav passionate Front End Developer from India</p>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=200px width=200px/>
 </div>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=200px width=200px/>
+
 
 
 # Some tools I have Used and Learned
@@ -28,5 +29,7 @@
 <div>
 
 # My Github History
+<div style="display:flex;>
 <img src="https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=github_dark">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact">
+</div>
