@@ -3,4 +3,9 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <p>I am Kesav passionate Front End Developer from India</p>
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=github_dark">
+
+# Some tools I have Used and Learned
+
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact">
