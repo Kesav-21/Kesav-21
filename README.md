@@ -27,9 +27,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=50px width=50px/>
 <div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact"/>
 
 # My Github History
-<div style="display:flex;>
-<img src="https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=github_dark">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact">
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=github_dark"/>
 </div>
