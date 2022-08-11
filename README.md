@@ -1,8 +1,11 @@
-# Hi there 👋
+<h1 align="center">Hi there 👋</h1>
 <div id="header" align="center">
-  <img src="Text.gif" width="100"/>
+  
+  <b>I am <img src="Text.gif" width="100"/> passionate Front End Developer from India</b>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Kesav-21"/>
-  <p>I am Kesav passionate Front End Developer from India</p>
+  <br/>
+  <br/>
+  
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=200px width=200px/>
 </div>
 
