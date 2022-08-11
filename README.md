@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="text.gif" width="100"/>
+  <img src="./text.gif" width="100"/>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Kesav-21"/>
   <p>I am Kesav passionate Front End Developer from India</p>
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=200px width=200px/>
