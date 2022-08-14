@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 <div id="header" align="center">
   
-  <b>I am <img src="Text.gif" width="100"/> passionate Front End Developer from India</b>
+  <b>I'm <img src="Text.gif" width="100"/> a passionate Developer bringing you programming and design from the future. I am experienced in developing web and desktop applications including full front end design. This includes brand identity, graphics and illustrations.</b>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Kesav-21"/>
   <br/>
   <br/>
