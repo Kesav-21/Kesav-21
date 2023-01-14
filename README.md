@@ -56,5 +56,4 @@
 # My Github History
 <div>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Kesav-21&theme=dark"/>
-<img src="https://github-stats-alpha.vercel.app/api?username=Kesav-21/>
 </div>
