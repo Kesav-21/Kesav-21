@@ -11,11 +11,11 @@
 
 # Talking about Personal Stuffs:
 
-hammer_and_wrench I’m currently working with HTML, CSS, JavaScript,ReactJS, MySQL, etc.
-rocket I’m currently learning Full Stack Development.
-👨🏻‍💻   Most of my works are available on <a href="https://github.com/Kesav-21">Github</a>.
-mailbox   How to reach me: <a href="mailto:technowkesav@gmail.com">technowkesav@gmail.com</a>.
-memo   Checkout my <a href="https://github.io/Kesav-CV">Resume</a>.
+- :hammer_and_wrench:  I’m currently working with HTML, CSS, JavaScript,ReactJS, MySQL, etc.
+- :rocket:  I’m currently learning Full Stack Development.
+- 👨🏻‍💻   Most of my works are available on <a href="https://github.com/Kesav-21">Github</a>.
+- :mailbox:  How to reach me: <a href="mailto:technowkesav@gmail.com">technowkesav@gmail.com</a>.
+- :memo:  Checkout my <a href="https://github.io/Kesav-CV">Resume</a>.
 
 # Find me On
 <div style="display:flex;">
