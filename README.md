@@ -42,6 +42,5 @@
 
 # My Github History
 <div>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Kesav-21&theme=dark)](https://git.io/streak-stats)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kesav-21"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Kesav-21&theme=dark"/>
 </div>
