@@ -1,13 +1,21 @@
 <h1 align="center">Hi there 👋</h1>
 <div id="header" align="center">
   
-  <b>I'm <img src="Text.gif" width="100"/> a passionate Developer bringing you programming and design from the future. I am experienced in developing web and desktop applications including full front end design. This includes brand identity, graphics and illustrations.</b>
+  <b>I'm <img src="Text.gif" width="100"/> a passionate self-taught Full Stack web developer I'm a graduand in Computer Science from Panimalar Engineering College. I'm a passionate learner who's always willing to learn and work across technologies and domains bringing you programming and design from the future. I love to explore new technologies and leverage them to solve real-life problems sparkles. I'm currently into Web Development.</b>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Kesav-21"/>
   <br/>
   <br/>
   
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=200px width=200px/>
 </div>
+
+# Talking about Personal Stuffs:
+
+hammer_and_wrench I’m currently working with HTML, CSS, JavaScript,ReactJS, MySQL, etc.
+rocket I’m currently learning Full Stack Development.
+👨🏻‍💻   Most of my works are available on <a href="https://github.com/Kesav-21">Github</a>.
+mailbox   How to reach me: <a href="mailto:technowkesav@gmail.com">technowkesav@gmail.com</a>.
+memo   Checkout my <a href="https://github.io/Kesav-CV">Resume</a>.
 
 # Find me On
 <div style="display:flex;">
