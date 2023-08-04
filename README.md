@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
-<img src="kesav.gif" width="500px" height="100px"/>
+<img style="display:block;margin:0px auto" src="kesav.gif" width="500px" height="100px"/>
 <h2 style="text-align:center">Passionate self-taught Full Stack Developer</h2>
-<div id="header" align="center" >
+<div id="header" align="center" style="display:flex;margin:0px auto">
   <p style="width:100%;text-align:center;">I'm a graduand in Computer Science :mortar_board: from Panimalar Engineering College :school:. I'm a passionate learner who's always willing to learn and work across technologies and domains bringing you programming and design from the future. I love to explore new technologies and leverage them to solve real-life problems :sparkles:. I'm currently into Web Development.</p>  
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=200px width=200px/>
+  <img style="display:block;margin:0px auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=200px width=200px/>
 </div>
 
 # Talking about Personal Stuffs:
