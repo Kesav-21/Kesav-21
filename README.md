@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋</h1>
+<img src="kesav.gif" width="100"/>
+<hr>
 <div id="header" align="center">
-  
-  <b>I'm <img src="Text.gif" width="100"/> a passionate self-taught Full Stack web developer I'm a graduand in Computer Science :mortar_board: from Panimalar Engineering College :school:. I'm a passionate learner who's always willing to learn and work across technologies and domains bringing you programming and design from the future. I love to explore new technologies and leverage them to solve real-life problems :sparkles:. I'm currently into Web Development.</b>
+  <b>I'm  a passionate self-taught Full Stack web developer I'm a graduand in Computer Science :mortar_board: from Panimalar Engineering College :school:. I'm a passionate learner who's always willing to learn and work across technologies and domains bringing you programming and design from the future. I love to explore new technologies and leverage them to solve real-life problems :sparkles:. I'm currently into Web Development.</b>
   <img src="https://visitor-badge.glitch.me/badge?page_id=Kesav-21"/>
   <br/>
   <br/>
