@@ -56,8 +56,7 @@
 </div>
 
 # My Github History
-<div>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Kesav-21&theme=dark"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=dark">
-[![Kesavaraman's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=Kesav-21&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,shell,batchfile,dockerfile,typescript&theme=algolia&show_icons=true)](https://github.com/Kesav-21)
-</div>
+
+[![Kesavaraman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=vision-friendly-dark)](https://github.com/Kesav-21/)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact&theme=vision-friendly-dark)](https://github.com/Kesav-21/)
