@@ -54,7 +54,7 @@
 # My Github History
 
 <p align="center">
-  <img width=48% src="https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=vision-friendly-dark" />
-  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact&theme=vision-friendly-dark" />
+  <img width=55% src="https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=vision-friendly-dark" />
+  <img width=42% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact&theme=vision-friendly-dark" />
 <p>
 
