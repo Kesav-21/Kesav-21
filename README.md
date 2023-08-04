@@ -2,11 +2,10 @@
 <p align="center">
 <img src="kesav.gif" width="500px" height="100px"/>
 </p>
-<h2 style="text-align:center">Passionate self-taught Full Stack Developer</h2>
-<div id="header" align="center" >
-  <p style="width:100%;text-align:center;">I'm a graduand in Computer Science :mortar_board: from Panimalar Engineering College :school:. I'm a passionate learner who's always willing to learn and work across technologies and domains bringing you programming and design from the future. I love to explore new technologies and leverage them to solve real-life problems :sparkles:. I'm currently into Web Development.</p>  
-  <img style="display:block;margin:0px auto" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=200px width=200px/>
-</div>
+<h3 align="center">Passionate self-taught Full Stack Developer</h3>
+
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=230px width=300px/>
+  <p align="left">I'm a graduand in Computer Science :mortar_board: from Panimalar Engineering College :school:. I'm a passionate learner who's always willing to learn and work across technologies and domains bringing you programming and design from the future. I love to explore new technologies and leverage them to solve real-life problems :sparkles:. I'm currently into Web Development.</p>  
 
 # Talking about Personal Stuffs:
 
@@ -19,18 +18,16 @@
 - :memo:  Checkout my <a href="https://Kesav-21.github.io/Kesav-CV">Resume</a>.
 
 # Find me On
-<div style="display:flex;">
+
 <a href="https://www.facebook.com/KesavTechie"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 <a href="mailto:technowkesav@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/kesav_techie/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/kesavaraman-m-r-43a38b167"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://twitter.com/Kesavaraman_M_R"><img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-</div>
 
-<div style="display:flex;flex-direction:column">
 
 # Languages and Frameworks I have Used and Learned
-<div >
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height=50px width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height=50px width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height=50px width=50px/>
@@ -45,25 +42,19 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height=50px width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height=50px width=50px/>
 <img src="https://www.svgrepo.com/download/354118/nodejs.svg" height=50px width=50px/>
-<div>
 
 # Tools and operating System Used
-<div style="display:flex;">
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height=50px width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height=50px width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height=50px width=50px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" height=50px width=50px/>
 <img src="https://www.svgrepo.com/download/374171/vscode.svg" height=50px width=50px/>
-</div>
-</div>
 
 # My Github History
 
-<div style="display:flex;">
-<a href="https://github.com/Kesav-21/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/Kesav-21/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact&theme=vision-friendly-dark" />
-</a>
-</div>
+<p align="center">
+  <img width=48% src="https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=vision-friendly-dark" />
+  <img width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact&theme=vision-friendly-dark" />
+<p>
+
