@@ -57,6 +57,11 @@
 
 # My Github History
 
-[![Kesavaraman's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=vision-friendly-dark)](https://github.com/Kesav-21/)
+<a href="https://github.com/Kesav-21/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Kesav-21&show_icons=true&theme=vision-friendly-dark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact&theme=vision-friendly-dark)](https://github.com/Kesav-21/)
+<a href="https://github.com/Kesav-21/">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kesav-21&layout=compact&theme=vision-friendly-dark" />
+</a>
+
