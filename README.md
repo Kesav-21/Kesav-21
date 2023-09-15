@@ -4,7 +4,7 @@
 </p>
 <h3 align="center">Passionate self-taught Full Stack Developer</h3>
 
-<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=230px width=300px/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height=250px width=300px/>
   <p align="left">I'm a graduand in Computer Science :mortar_board: from Panimalar Engineering College :school:. I'm a passionate learner who's always willing to learn and work across technologies and domains bringing you programming and design from the future. I love to explore new technologies and leverage them to solve real-life problems :sparkles:. I'm currently into Web Development.</p>  
 
 # Talking about Personal Stuffs:
